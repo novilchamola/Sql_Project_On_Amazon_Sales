@@ -22,7 +22,7 @@ Conducted exploratory data analysis to answer specific business questions and ac
 
 **Business Questions**
 
-1.Count of distinct cities in the dataset.
+1.Count of distinct cities in the dataset.n/
 2.Corresponding city for each branch.
 3.Count of distinct product lines.
 4.Most frequently occurring payment method.
