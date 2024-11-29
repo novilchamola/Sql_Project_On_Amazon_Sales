@@ -20,34 +20,6 @@ Added new columns such as timeofday, dayname, and monthname to provide insights 
 3. Exploratory Data Analysis (EDA)
 Conducted exploratory data analysis to answer specific business questions and achieve project goals.
 
-**Business Questions**
-
-1.Count of distinct cities in the dataset.n/
-2.Corresponding city for each branch.
-3.Count of distinct product lines.
-4.Most frequently occurring payment method.
-5.Product line with the highest sales.
-6.Revenue generated each month.
-7.Month with peak cost of goods sold.
-8.Product line generating the highest revenue.
-9.City with the highest revenue.
-10.Product line with the highest Value Added Tax (VAT).
-11.Classification of product lines as "Good" or "Bad" based on sales performance.
-12.Branch exceeding the average number of products sold.
-13.Most frequently associated product line with each gender.
-14.Average rating for each product line.
-15.Sales occurrences for each time of day on every weekday.
-16.Customer type contributing the highest revenue.
-17.City with the highest VAT percentage.
-18.Customer type with the highest VAT payments.
-19.Count of distinct customer types and payment methods.
-20.Most frequently occurring customer type.
-21.Customer type with the highest purchase frequency.
-22.Predominant gender among customers.
-23.Distribution of genders within each branch.
-24.Time of day with the most ratings from customers.
-25.Time of day with the highest customer ratings for each branch.
-26.Day of the week with the highest average ratings overall and for each branch.
 
 **Technologies Used**
 
